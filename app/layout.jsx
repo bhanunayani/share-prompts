@@ -4,7 +4,7 @@ import Nav from '@components/Nav';
 import Provider from '@components/Provider';
 
 export const metadata= {
-    title: "Share Prompt",
+    title: "TechTalk",
     description: "Dicover and share AI prompts"
 }
 

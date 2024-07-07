@@ -4,12 +4,12 @@ const home = () => {
   return (
     <section className="w-full flex-center flex-col">
         <h1 className="head_text text-center">
-            Discover & Share
+            Explore & Share
             <br className="max-md:hidden"/>
-            <span className="orange_gradient text-center">AI-Powered Prompts</span>
+            <span className="orange_gradient text-center">Tech Insights</span>
         </h1>
         <p className="desc text-center">
-            Promptopia is an open-source AI prompting tool for modern world to discover, create ans share creative prompts
+          TechTalk is your go-to open-source platform for discovering, creating, and sharing innovative tech-related posts. Dive into a world of technology where enthusiasts and professionals come together to share their knowledge and insights.
         </p>
 
         <Feed />
